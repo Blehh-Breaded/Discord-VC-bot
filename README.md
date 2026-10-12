@@ -69,3 +69,6 @@ Restart quirks, all by design:
 - Empty leftover temp VCs are deleted at startup
 - Occupied ones are re-tracked, old panel messages removed, and a **Claim VC** button is posted — first press adopts the channel
 - The owner is only known after a claim, so the panel works again from that point
+## Credits
+
+Vibecoded by [Blehh-Breaded](https://github.com/Blehh-Breaded), built with the help of the [pi coding agent](https://github.com/earendil-works/pi-coding-agent) (GLM model) fixing bugs, adding the temp voice system and control panel.
